@@ -10,7 +10,7 @@ ChatBot base: https://realpython.com/build-a-chatbot-python-chatterbot/
   
   - Apostol Iustina
   - Bondor Laura
-  - Chichirau Claudiu-Constantin
+  - Chichirau Claudiu
   - Culbece Rose
   - Onofrei Maria
 
