@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Maria\OneDrive\Documents\GitHub\ChatBot-ChessExplained\venv
+set VIRTUAL_ENV=D:\Folder Claudiu\Facultate FII UAIC\Anul 3 (2023 - 2024)\Semestrul 1\2. Inteligență artificială (6 credite)\ChatBot-ChessExplained\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
