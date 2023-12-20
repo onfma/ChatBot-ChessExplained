@@ -583,3 +583,257 @@
 12/19/23, 11:46 - chat: In sah, exista o varietate de miscari si tactici, cum ar fi: En Passant, rocada, promovarea pionului, sah si sah dublu cu piese/cu pioni, deschiderea.
 12/19/23, 11:45 - person: Exista mutarile specifice in sah?
 12/19/23, 11:46 - chat: In sah, exista o varietate de miscari si tactici, cum ar fi: En Passant, rocada, promovarea pionului, sah si sah dublu cu piese/cu pioni, deschiderea.
+
+################################################
+
+
+12/20/23, 15:20 - person: Ce inseamna matul?
+12/20/23, 15:21 - chat: Daca regele unui jucator este pus in sah si nu este nici o mutare legala de scapare a regelui din sah, se spune ca regele a primit mat, jocul este terminat, iar jucatorul respectiv pierde.
+12/20/23, 15:20 - person: Cum se defineste matul?
+12/20/23, 15:21 - chat: Daca regele unui jucator este pus in sah si nu este nici o mutare legala de scapare a regelui din sah, se spune ca regele a primit mat, jocul este terminat, iar jucatorul respectiv pierde.
+12/20/23, 15:20 - person: Ce reprezinta matul?
+12/20/23, 15:21 - chat: Daca regele unui jucator este pus in sah si nu este nici o mutare legala de scapare a regelui din sah, se spune ca regele a primit mat, jocul este terminat, iar jucatorul respectiv pierde.
+12/20/23, 15:20 - person: Ce se intampla cand un rege este pus in mat?
+12/20/23, 15:21 - chat: Daca regele unui jucator este pus in sah si nu este nici o mutare legala de scapare a regelui din sah, se spune ca regele a primit mat, jocul este terminat, iar jucatorul respectiv pierde.
+12/20/23, 15:20 - person: Ce determina finalul jocului in cazul in care regele nu poate evita sahul?
+12/20/23, 15:21 - chat: Daca regele unui jucator este pus in sah si nu este nici o mutare legala de scapare a regelui din sah, se spune ca regele a primit mat, jocul este terminat, iar jucatorul respectiv pierde.
+12/20/23, 15:20 - person: Ce se intampla cand regele este amenintat si nu poate face nicio mutare?
+12/20/23, 15:21 - chat: Daca regele unui jucator este pus in sah si nu este nici o mutare legala de scapare a regelui din sah, se spune ca regele a primit mat, jocul este terminat, iar jucatorul respectiv pierde.
+12/20/23, 15:23 - person: De ce regele nu poate fi capturat?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: De ce nu poate fi capturat regele?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: De ce nu poate fi eliminat regele?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: De ce regele nu poate fi eliminat?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: Ce face regele diferit de celelalte piese?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: : De ce matul pune capat jocului, inlocuind capturarea regelui?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: Cum este diferit tratat regele fata de celelalte piese?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: Care este diferenta intre rege si celelalte piese?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:23 - person: De ce nu poate fi regele capturat in acelasi mod ca celelalte piese?
+12/20/23, 15:24 - chat: Spre deosebire de celelalte piese, regele nu poate fi niciodata capturat deoarece matul termina jocul.
+12/20/23, 15:25 - person: Ce se intampla cand un jucator decide sa cedeze in timpul unei partide?
+12/20/23, 15:26 - chat: Orice jucator poate ceda oricand, iar in acest caz adversarul castiga jocul.
+12/20/23, 15:25 - person: Cand poate ceda un jucator?
+12/20/23, 15:26 - chat: Orice jucator poate ceda oricand, iar in acest caz adversarul castiga jocul.
+12/20/23, 15:25 - person: Cand poate decide un jucator sa cedeze?  
+12/20/23, 15:26 - chat: Orice jucator poate ceda oricand, iar in acest caz adversarul castiga jocul.
+12/20/23, 15:25 - person: Exista posibilitatea de a abandona jocul?
+12/20/23, 15:26 - chat: Orice jucator poate ceda oricand, iar in acest caz adversarul castiga jocul.
+12/20/23, 15:25 - person: Ce efect are cedarea unui jucator asupra rezultatului partidei?
+12/20/23, 15:26 - chat: Orice jucator poate ceda oricand, iar in acest caz adversarul castiga jocul.
+12/20/23, 15:25 - person: Ce consecinte are decizia unui jucator de a abandona partida de sah?
+12/20/23, 15:26 - chat: Orice jucator poate ceda oricand, iar in acest caz adversarul castiga jocul.
+12/20/23, 15:25 - person: Cand poate castiga adversarul?
+12/20/23, 15:26 - chat: Orice jucator poate ceda oricand, iar in acest caz adversarul castiga jocul.
+12/20/23, 15:28 - person: Ce modalitati are un jucator de a ceda in timpul unei partide?
+12/20/23, 15:29 - chat: Un jucator poate ceda ori spunand asta, ori indicand pe tabelul cu scoruri in oricare din trei moduri: (1) scriind "cedeaza" sau (2) scriind "1-0" daca negrul cedeaza sau "0-1" daca albul cedeaza.
+12/20/23, 15:28 - person: Cum pot ceda?
+12/20/23, 15:29 - chat: Un jucator poate ceda ori spunand asta, ori indicand pe tabelul cu scoruri in oricare din trei moduri: (1) scriind "cedeaza" sau (2) scriind "1-0" daca negrul cedeaza sau "0-1" daca albul cedeaza.
+12/20/23, 15:28 - person: Cum pot ceda in timpul jocului?
+12/20/23, 15:29 - chat: Un jucator poate ceda ori spunand asta, ori indicand pe tabelul cu scoruri in oricare din trei moduri: (1) scriind "cedeaza" sau (2) scriind "1-0" daca negrul cedeaza sau "0-1" daca albul cedeaza.
+12/20/23, 15:28 - person: Cum poate un jucator indica faptul ca cedeaza in timpul unei partide?
+12/20/23, 15:29 - chat: Un jucator poate ceda ori spunand asta, ori indicand pe tabelul cu scoruri in oricare din trei moduri: (1) scriind "cedeaza" sau (2) scriind "1-0" daca negrul cedeaza sau "0-1" daca albul cedeaza.
+12/20/23, 15:28 - person: Care sunt metodele prin care un jucator poate comunica cedarea?
+12/20/23, 15:29 - chat: Un jucator poate ceda ori spunand asta, ori indicand pe tabelul cu scoruri in oricare din trei moduri: (1) scriind "cedeaza" sau (2) scriind "1-0" daca negrul cedeaza sau "0-1" daca albul cedeaza.
+12/20/23, 15:28 - person: Ce indicatii poate folosi un jucator pentru a anunta ca renunta la partida?
+12/20/23, 15:29 - chat: Un jucator poate ceda ori spunand asta, ori indicand pe tabelul cu scoruri in oricare din trei moduri: (1) scriind "cedeaza" sau (2) scriind "1-0" daca negrul cedeaza sau "0-1" daca albul cedeaza.
+12/20/23, 15:28 - person: Ce semnale poate da un jucator pentru a demonstra ca preda partida adversarului sau?
+12/20/23, 15:29 - chat: Un jucator poate ceda ori spunand asta, ori indicand pe tabelul cu scoruri in oricare din trei moduri: (1) scriind "cedeaza" sau (2) scriind "1-0" daca negrul cedeaza sau "0-1" daca albul cedeaza.
+12/20/23, 15:30 - person: Ce semnificatie are oprirea ceasurilor?
+12/20/23, 15:31 - chat: Oprirea ceasurilor nu este o indicare a cedarii, intrucat ceasurile pot fi oprite la cererea arbitrului.
+12/20/23, 15:30 - person: Ce inseamna atunci cand jucatorii opresc ceasurile in timpul jocului?
+12/20/23, 15:31 - chat: Oprirea ceasurilor nu este o indicare a cedarii, intrucat ceasurile pot fi oprite la cererea arbitrului.
+12/20/23, 15:30 - person: Este oprirea ceasului un semn al cedarii?
+12/20/23, 15:31 - chat: Oprirea ceasurilor nu este o indicare a cedarii, intrucat ceasurile pot fi oprite la cererea arbitrului.
+12/20/23, 15:30 - person: De ce oprirea ceasurilor nu este considerata ca o forma de predare a partidei?
+12/20/23, 15:31 - chat: Oprirea ceasurilor nu este o indicare a cedarii, intrucat ceasurile pot fi oprite la cererea arbitrului.
+12/20/23, 15:30 - person: Care este rolul oprierii ceasurilor la cererea arbitrului?
+12/20/23, 15:31 - chat: Oprirea ceasurilor nu este o indicare a cedarii, intrucat ceasurile pot fi oprite la cererea arbitrului.
+12/20/23, 15:30 - person: Oprirea ceasului inseamna ca jocul s-a incheiat?
+12/20/23, 15:31 - chat: Oprirea ceasurilor nu este o indicare a cedarii, intrucat ceasurile pot fi oprite la cererea arbitrului.
+12/20/23, 15:30 - person: De ce oprirea ceasurilor nu este considerata o forma de cedare?
+12/20/23, 15:31 - chat: Oprirea ceasurilor nu este o indicare a cedarii, intrucat ceasurile pot fi oprite la cererea arbitrului.
+12/20/23, 15:32 - person: Ce diferenta exista intre o oferta de strangere de mana si o cedare?
+12/20/23, 15:33 - chat: O oferta de strangere de mana nu este necesara pentru cedare, intrucat un jucator ar putea crede ca este o propunere de remiza.
+12/20/23, 15:32 - person: O oferta de strangere de mana este echivalenta cu cedarea?
+12/20/23, 15:33 - chat: O oferta de strangere de mana nu este necesara pentru cedare, intrucat un jucator ar putea crede ca este o propunere de remiza.
+12/20/23, 15:32 - person: Strangerea de mana este o propunere de remiza?
+12/20/23, 15:33 - chat: O oferta de strangere de mana nu este necesara pentru cedare, intrucat un jucator ar putea crede ca este o propunere de remiza.
+12/20/23, 15:32 - person: Cum poate fi interpretata o oferta de strangere de mana?
+12/20/23, 15:33 - chat: O oferta de strangere de mana nu este necesara pentru cedare, intrucat un jucator ar putea crede ca este o propunere de remiza.
+12/20/23, 15:32 - person: Strangerea de mana reprezinta cedare?
+12/20/23, 15:33 - chat: O oferta de strangere de mana nu este necesara pentru cedare, intrucat un jucator ar putea crede ca este o propunere de remiza.
+12/20/23, 15:34 - person: Ce inseamna inclinatia in jos a regelui in timpul unei partide?
+12/20/23, 15:35 - chat: Inclinarea in jos a regelui indica cedarea, dar metoda nu este utilizata frecvent.
+12/20/23, 15:34 - person: Ce inseamna inclinatia in jos a regelui?
+12/20/23, 15:35 - chat: Inclinarea in jos a regelui indica cedarea, dar metoda nu este utilizata frecvent.
+12/20/23, 15:34 - person: Care este semnificatia inclinarii in jos a regeluii?
+12/20/23, 15:35 - chat: Inclinarea in jos a regelui indica cedarea, dar metoda nu este utilizata frecvent.
+12/20/23, 15:34 - person: Care este semnificatia inclinarii in jos a regelui in timpul jocului?
+12/20/23, 15:35 - chat: Inclinarea in jos a regelui indica cedarea, dar metoda nu este utilizata frecvent.
+12/20/23, 15:34 - person: Ce reprezinta gestul de inclinare a regelui?
+12/20/23, 15:35 - chat: Inclinarea in jos a regelui indica cedarea, dar metoda nu este utilizata frecvent.
+12/20/23, 15:34 - person: Ce indica inclinarea in jos a regelui?
+12/20/23, 15:35 - chat: Inclinarea in jos a regelui indica cedarea, dar metoda nu este utilizata frecvent.
+12/20/23, 15:34 - person: Ce metoda pot folosi pentru a indica cedarea?
+12/20/23, 15:35 - chat: Inclinarea in jos a regelui indica cedarea, dar metoda nu este utilizata frecvent.
+12/20/23, 15:35 - person: Cand o partida se termina cu remiza?
+12/20/23, 15:36 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala.
+12/20/23, 15:35 - person: Cand o partida se termina cu remiza?
+12/20/23, 15:36 - chat: Nici unul dintre jucatori nu are suficient material pentru a da mat, de exemplu daca pe tabla au ramas doar un nebun si un rege de o culoare contra unui rege si a unui cal de cealalta culoare sau daca pe tabla au ramas doar regii.
+12/20/23, 15:35 - person: Cand o partida se termina cu remiza?
+12/20/23, 15:36 - chat: Ambii jucatori sunt de acord cu remiza dupa ce unul dintre jucatori face o asemenea oferta.
+12/20/23, 15:35 - person: Cand o partida se termina cu remiza?
+12/20/23, 15:36 - chat: In 50 de mutari nu s-a capturat nicio piesa si nu s-a mutat niciun pion.
+12/20/23, 15:35 - person: Cand o partida se termina cu remiza?
+12/20/23, 15:36 - chat: O pozitie se repeta de trei ori.
+12/20/23, 15:35 - person: Cand o partida se termina cu remiza?
+12/20/23, 15:36 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat.
+12/20/23, 15:35 - person: Ce situatie determina remiza?
+12/20/23, 15:36 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala.
+12/20/23, 15:35 - person: Ce situatie determina remiza?
+12/20/23, 15:36 - chat: Nici unul dintre jucatori nu are suficient material pentru a da mat, de exemplu daca pe tabla au ramas doar un nebun si un rege de o culoare contra unui rege si a unui cal de cealalta culoare sau daca pe tabla au ramas doar regii.
+12/20/23, 15:35 - person: Ce situatie determina remiza?
+12/20/23, 15:36 - chat: Ambii jucatori sunt de acord cu remiza dupa ce unul dintre jucatori face o asemenea oferta.
+12/20/23, 15:35 - person: Ce situatie determina remiza?
+12/20/23, 15:36 - chat: In 50 de mutari nu s-a capturat nicio piesa si nu s-a mutat niciun pion.
+12/20/23, 15:35 - person: Ce situatie determina remiza?
+12/20/23, 15:36 - chat: O pozitie se repeta de trei ori.
+12/20/23, 15:35 - person: Ce situatie determina remiza?
+12/20/23, 15:36 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat.
+12/20/23, 15:35 - person: Cand se incheie o partida de sah cu remiza?
+12/20/23, 15:36 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala.
+12/20/23, 15:35 - person: Cand se incheie o partida de sah cu remiza?
+12/20/23, 15:36 - chat: Nici unul dintre jucatori nu are suficient material pentru a da mat, de exemplu daca pe tabla au ramas doar un nebun si un rege de o culoare contra unui rege si a unui cal de cealalta culoare sau daca pe tabla au ramas doar regii.
+12/20/23, 15:35 - person: Cand se incheie o partida de sah cu remiza?
+12/20/23, 15:36 - chat: Ambii jucatori sunt de acord cu remiza dupa ce unul dintre jucatori face o asemenea oferta.
+12/20/23, 15:35 - person: Cand se incheie o partida de sah cu remiza?
+12/20/23, 15:36 - chat: In 50 de mutari nu s-a capturat nicio piesa si nu s-a mutat niciun pion.
+12/20/23, 15:35 - person: Cand se incheie o partida de sah cu remiza?
+12/20/23, 15:36 - chat: O pozitie se repeta de trei ori.
+12/20/23, 15:35 - person: Cand se incheie o partida de sah cu remiza?
+12/20/23, 15:36 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat.
+12/20/23, 15:35 - person: Ce situatie duce la remiza?
+12/20/23, 15:36 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala.
+12/20/23, 15:35 - person: Ce situatie duce la remiza?
+12/20/23, 15:36 - chat: Nici unul dintre jucatori nu are suficient material pentru a da mat, de exemplu daca pe tabla au ramas doar un nebun si un rege de o culoare contra unui rege si a unui cal de cealalta culoare sau daca pe tabla au ramas doar regii.
+12/20/23, 15:35 - person: Ce situatie duce la remiza?
+12/20/23, 15:36 - chat: Ambii jucatori sunt de acord cu remiza dupa ce unul dintre jucatori face o asemenea oferta.
+12/20/23, 15:35 - person: Ce situatie duce la remiza?
+12/20/23, 15:36 - chat: In 50 de mutari nu s-a capturat nicio piesa si nu s-a mutat niciun pion.
+12/20/23, 15:35 - person: Ce situatie duce la remiza?
+12/20/23, 15:36 - chat: O pozitie se repeta de trei ori.
+12/20/23, 15:35 - person: Ce situatie duce la remiza?
+12/20/23, 15:36 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat.
+12/20/23, 15:35 - person: Care este criteriul pentru declararea remizei?
+12/20/23, 15:36 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala.
+12/20/23, 15:35 - person: Care este criteriul pentru declararea remizei?
+12/20/23, 15:36 - chat: Nici unul dintre jucatori nu are suficient material pentru a da mat, de exemplu daca pe tabla au ramas doar un nebun si un rege de o culoare contra unui rege si a unui cal de cealalta culoare sau daca pe tabla au ramas doar regii.
+12/20/23, 15:35 - person: Care este criteriul pentru declararea remizei?
+12/20/23, 15:36 - chat: Ambii jucatori sunt de acord cu remiza dupa ce unul dintre jucatori face o asemenea oferta.
+12/20/23, 15:35 - person: Care este criteriul pentru declararea remizei?
+12/20/23, 15:36 - chat: In 50 de mutari nu s-a capturat nicio piesa si nu s-a mutat niciun pion.
+12/20/23, 15:35 - person: Care este criteriul pentru declararea remizei?
+12/20/23, 15:36 - chat: O pozitie se repeta de trei ori.
+12/20/23, 15:35 - person: Care este criteriul pentru declararea remizei?
+12/20/23, 15:36 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat.
+12/20/23, 15:35 - person: Care este conditia pentru ca o partida sa se termine cu remiza?
+12/20/23, 15:36 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala.
+12/20/23, 15:35 - person: Care este conditia pentru ca o partida sa se termine cu remiza?
+12/20/23, 15:36 - chat: Nici unul dintre jucatori nu are suficient material pentru a da mat, de exemplu daca pe tabla au ramas doar un nebun si un rege de o culoare contra unui rege si a unui cal de cealalta culoare sau daca pe tabla au ramas doar regii.
+12/20/23, 15:35 - person: Care este conditia pentru ca o partida sa se termine cu remiza?
+12/20/23, 15:36 - chat: Ambii jucatori sunt de acord cu remiza dupa ce unul dintre jucatori face o asemenea oferta.
+12/20/23, 15:35 - person: Care este conditia pentru ca o partida sa se termine cu remiza?
+12/20/23, 15:36 - chat: In 50 de mutari nu s-a capturat nicio piesa si nu s-a mutat niciun pion.
+12/20/23, 15:35 - person: Care este conditia pentru ca o partida sa se termine cu remiza?
+12/20/23, 15:36 - chat: O pozitie se repeta de trei ori.
+12/20/23, 15:35 - person: Care este conditia pentru ca o partida sa se termine cu remiza?
+12/20/23, 15:36 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat.
+12/20/23, 15:37 - person: Ce este patul?
+12/20/23, 15:38 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala. Aceasta situatie se numeste pat.
+12/20/23, 15:37 - person: Ce reprezinta patul?
+12/20/23, 15:38 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala. Aceasta situatie se numeste pat.
+12/20/23, 15:37 - person: Ce inseamna patul?
+12/20/23, 15:38 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala. Aceasta situatie se numeste pat.
+12/20/23, 15:37 - person: Ce se intampla cand regele nu poate face mutari legale si nu este in sah?
+12/20/23, 15:38 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala. Aceasta situatie se numeste pat.
+12/20/23, 15:37 - person: Ce inseamna cand se spune ca jocul este in remiza automata?
+12/20/23, 15:38 - chat: Jocul devine automat remiza daca regele nu este in sah, dar nu poate face nici o mutare legala. Aceasta situatie se numeste pat.
+12/20/23, 15:39 - person: Ce inseamna sah perpetuu sau sah etern?
+12/20/23, 15:40 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat. Aceasta situatie se numeste sah perpetuu sau sah etern.
+12/20/23, 15:39 - person: Ce inseamna sah perpetuu?
+12/20/23, 15:40 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat. Aceasta situatie se numeste sah perpetuu sau sah etern.
+12/20/23, 15:39 - person: Ce inseamna sah etern?
+12/20/23, 15:40 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat. Aceasta situatie se numeste sah perpetuu sau sah etern.
+12/20/23, 15:39 - person: Ce reprezinta sahul perpetuu?
+12/20/23, 15:40 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat. Aceasta situatie se numeste sah perpetuu sau sah etern.
+12/20/23, 15:39 - person: Ce este sahul perpetuu?
+12/20/23, 15:40 - chat: Regele primeste sah in continuu, fara a se putea opune, dar si fara a i se putea da mat. Aceasta situatie se numeste sah perpetuu sau sah etern.
+12/20/23, 15:41 - person: Ce se intampla cand o pozitie se repeta de trei ori?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce se intampla cand o pozitie se repeta de 3 ori?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce inseamna atunci cand nici unul dintre jucatori nu are suficient material pentru a da mat?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce se intampla atunci cand nici unul dintre jucatori nu are suficient material pentru a da mat?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce se intampla cand regele nu poate fi pus mat, dar nici nu poate face o mutare legala?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce se intampla in situatia in care regele primeste sah in continuu, fara a i se putea da mat?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce se intampla cand in 50 de mutari nu s-a capturat nicio piesa si nu s-a mutat niciun pion?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce se intampla cand nici unul dintre jucatori nu are suficient material pentru a da mat?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:41 - person: Ce inseamna atunci cand regele este pus intr-un sah perpetuu, fara a putea evita sau primi mat?
+12/20/23, 15:42 - chat: Partida se termina cu remiza.
+12/20/23, 15:56 - person: Care este cea mai obisnuita metoda de control al timpului?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:56 - person: Cum se desfasoara o partida de sah in cadrul controlului timpului?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:56 - person: Ce sistem este utilizat pentru controlul timpului?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:56 - person: Cum functioneaza ceasurile jucatorilor in timpul unei partide?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:56 - person: Care este procedura pentru utilizarea ceasurilor in timpul jocului?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:56 - person: Care este rolul ceasurilor legate intre jucatori in timpul unei partide?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:56 - person: Ce se intampla cu ceasurile jucatorilor in timpul desfasurarii partidei?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:56 - person: Ce actiune efectueaza un jucator dupa ce si-a facut mutarea in timpul partidei?
+12/20/23, 15:57 - chat: Fiecare jucator are cate un ceas cu un buton pe el, ceasurile adversarilor sunt legate intre ele. Cand un jucator se gandeste la mutare ceasul sau merge, iar ceasul adversarului sta pe loc, dupa ce jucatorul respectiv muta, el apasa pe ceasul sau, in felul acesta opreste ceasul sau si il porneste pe al adversarului.
+12/20/23, 15:58 - person: Ce se intampla cand timpul unui jucator expira? 
+12/20/23, 15:59 - chat: Jucatorul caruia ii expira timpul pierde partida.
+12/20/23, 15:58 - person: Ce se intampla daca timpul unui jucator se termina?
+12/20/23, 15:59 - chat: Jucatorul caruia ii expira timpul pierde partida.
+12/20/23, 15:58 - person: Ce implica expirarea timpului pentru unul dintre jucatori?
+12/20/23, 15:59 - chat: Jucatorul caruia ii expira timpul pierde partida.
+12/20/23, 15:58 - person: Ce rezultat are expirarea timpului?
+12/20/23, 15:59 - chat: Jucatorul caruia ii expira timpul pierde partida.
+12/20/23, 15:58 - person: Ce rezultat are expirarea timpului pentru unul dintre participanti?
+12/20/23, 15:59 - chat: Jucatorul caruia ii expira timpul pierde partida.
+12/20/23, 15:58 - person: Care este rezultatul daca unul dintre jucatori isi depaseste limita de timp?
+12/20/23, 15:59 - chat: Jucatorul caruia ii expira timpul pierde partida.
+12/20/23, 15:58 - person: Ce reguli se aplica cand unul dintre jucatori isi termina timpul intr-o partida?
+12/20/23, 15:59 - chat: Jucatorul caruia ii expira timpul pierde partida.
+12/20/23, 15:59 - person: Cine initiaza cronometrarea in timpul?
+12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
+12/20/23, 15:59 - person: Cine este primul care apasa pe ceas?
+12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
+12/20/23, 15:59 - person: Care jucator este cel care initiaza activarea ceasului?
+12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
+12/20/23, 15:59 - person: Ce culoare a pieselor este asociata cu actiunea de a apasa primul pe ceas?
+12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
+12/20/23, 15:59 - person: Care jucator este responsabil pentru primul gest pe ceas?
+12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
+12/20/23, 15:59 - person: Care dintre jucatori actioneaza primul ceasul?
+12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
+12/20/23, 15:59 - person: Ce culoare porneste prima data ceasul?
+12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
