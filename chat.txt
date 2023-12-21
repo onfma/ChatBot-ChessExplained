@@ -837,3 +837,179 @@
 12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
 12/20/23, 15:59 - person: Ce culoare porneste prima data ceasul?
 12/20/23, 16:00 - chat: Primul care apasa pe ceas este negrul.
+
+################################################
+
+12/19/23, 11:20 - person: Ce este o competitie de sah?
+12/19/23, 11:20 - person: Descrie conceptul unei competiții de șah.
+12/19/23, 11:20 - person: Poți oferi o definiție a competiției de șah?
+12/19/23, 11:21 - chat: O competitie de sah este un eveniment in care jucatorii se intalnesc pentru a juca partide de sah unul impotriva celuilalt, cu scopul de a determina cine este cel mai bun jucator.
+12/19/23, 11:20 - person: Care sunt niste reguli de baza pentru jocul de competitie?
+12/19/23, 11:20 - person: Care sunt regulile de bază pentru jocul de competiție de șah?
+12/19/23, 11:21 - chat: Regulile de baza pentru jocul de competitie de sah includ miscarile specifice ale fiecarui tip de piesa, conceptele de sah si mat, si respectarea timpului alocat pentru fiecare miscare.
+12/19/23, 11:20 - person: Ce este un turneu de sah?
+12/19/23, 11:21 - chat: Un turneu de sah este o competitie in care mai multi jucatori se intrec pentru a determina cine este castigatorul. Participantii joaca mai multe partide, iar punctajul acumulat decide clasamentul final.
+12/19/23, 11:20 - person: Cum pot participa la un turneu de sah?
+12/19/23, 11:21 - chat: Pentru a participa la un turneu de sah, trebuie sa te inregistrezi la organizatorul evenimentului si sa platesti taxa de participare, daca exista una. Unele turnee pot avea si calificari prealabile.
+12/19/23, 11:20 - person: Cine organizeaza turnee de sah?
+12/19/23, 11:21 - chat: Turneele de sah sunt organizate de diverse entitati, cum ar fi cluburi de sah, federatii de sah sau organizatii sportive.
+12/20/23, 14:05 - person: Care sunt tipurile obisnuite de turnee de sah?
+12/20/23, 14:06 - chat:Exista diverse tipuri de turnee de sah, inclusiv turnee cu eliminare, turnee de lichidare, turnee de viteza si turnee de sah simultan.
+12/20/23, 14:01 - person: Cum functioneaza sistemul de punctaj intr-un turneu de sah?
+12/20/23, 14:02 - chat: In general, intr-un turneu de sah, victoria aduce 1 punct, remiza 0.5 puncte pentru ambii jucatori, iar infrangerea nu aduce niciun punct.
+12/20/23, 14:11 - person: Ce sunt normele de Grandmaster in sah?
+12/20/23, 14:12 - chat: Pentru a deveni Grandmaster (GM), un jucator trebuie sa obtina trei norme de GM in turnee internationale si sa atinga un rating Elo de cel putin 2500.
+12/20/23, 14:16 - person: Cum este structurat un meci standard intr-un turneu de sah?
+12/20/23, 14:17 - chat: Un meci standard intr-un turneu consta in doua parti: timpul de gandire al fiecarui jucator este limitat, iar timpul total al partidei poate varia, de exemplu, 90 de minute pentru primele 40 de mutari si apoi 30 de minute adaugate.
+12/20/23, 14:21 - person: Ce rol are arbiterul intr-un turneu de sah?
+12/20/23, 14:22 - chat: Arbiterul supervizeaza desfasurarea turneului, asigurandu-se ca regulile sunt respectate, rezolvand litigii, si gestionand procedurile in caz de probleme.
+12/20/23, 14:26 - person: Care sunt regulile privind fair-play-ul in competitiile de sah?
+12/20/23, 14:27 - chat: Fair-play-ul inseamna respectarea regulilor, eticii si spiritului sportiv. Jucatorii trebuie sa evite utilizarea mijloacelor nepermise pentru a obtine avantaje si sa respecte codul de conduita.
+12/20/23, 14:31 - person: Cum se determina ordinea de desfasurare a partidelor intr-un turneu de sah?
+12/20/23, 14:32 - chat: Ordinea de desfasurare a partidelor este adesea determinata de clasamentul initial, cu jucatorii cu punctaj similar urmand sa se intalneasca in runde succesive.
+12/20/23, 14:36 - person: Exista limite de timp in jocurile de sah din cadrul unui turneu?
+12/20/23, 14:37 - chat: Da, multe turnee de sah folosesc ceasuri de sah pentru a limita timpul de gandire al jucatorilor. Fiecare jucator are un timp total pentru toata partida, iar timpul se scade in timpul mutarilor.
+12/20/23, 14:41 - person: Care sunt criteriile de departajare in cazul unui turneu de sah cu rezultate egale?
+12/20/23, 14:42 - chat: Criteriile de departajare pot include Buchholz, Sonneborn-Berger, performanta individuala, sau chiar partidele blitz de departajare in cazul unui impas in clasament.
+12/20/23, 14:46 - person: Ce trebuie sa stiu despre eticheta si comportamentul in timpul partidelor de sah la nivel competitiv?
+12/20/23, 14:47 - chat: Eticheta inseamna respectarea tacerii in sala de joc, evitarea oricaror mijloace nepermise de comunicare, si manifestarea unei atitudini fair-play, indiferent de rezultatul partidei.
+12/20/23, 14:45 - person: Ce reprezinta "remiza prin repetitie"?
+12/20/23, 14:46 - chat: Remiza prin repetitie apare atunci cand aceeasi pozitie se repeta de trei ori, iar unul dintre jucatori solicita remiza. 
+12/20/23, 14:50 - person: Cum se numesc cele doua zone de promovare pentru pion in sah?
+12/20/23, 14:51 - chat: Cele doua zone de promovare se numesc "coloana de promovare" pentru pionii albi si "coloana de promovare inversa" pentru pionii negri.
+12/20/23, 15:25 - person: Ce se intampla in cazul unei remize prin acord?
+12/20/23, 15:26 - chat: Remiza prin acord apare atunci cand ambii jucatori sunt de acord cu rezultatul jocului, fie pentru ca pozitia nu permite o continuare clara, fie din alte motive. 
+12/20/23, 15:35 - person: Cum se desfasoara un meci de sah in sistemul de turneu elvetian?
+12/20/23, 15:36 - chat: Intr-un turneu elvetian, jucatorii sunt impartiti in functie de rezultatele anterioare, si fiecare runda jucatorii cu rezultate similare se intalnesc intre ei, promovand competitia echilibrata. 
+12/20/23, 15:40 - person: Ce este regula celor trei mutari repetate in sah?
+12/20/23, 15:41 - chat: Daca aceeasi pozitie apare de trei ori in timpul jocului, cu acelasi jucator la mutare, jocul poate fi declarat remiza in baza "regulei celor trei mutari repetate".
+12/20/23, 15:45 - person: Cand poate fi declarata remiza prin pozitia blocata?
+12/20/23, 15:46 - chat: Remiza prin "pozitia blocata" apare atunci cand nu exista suficiente piese pe tabla de sah pentru a forta un sah mat si jocul se blocheaza intr-o stare aparenta de echilibru. 
+12/20/23, 15:50 - person: Care este importanta "dezvoltarii rapide a pieselor" in sah?
+12/20/23, 15:51 - chat: Dezvoltarea rapida a pieselor permite jucatorului sa-si aduca rapid fortele in joc, controland centrul tablei si pregatindu-se pentru etapele ulterioare ale partidei.
+12/20/23, 16:05 - person: Cum afecteaza "regula celor 50 de mutari" strategia in sah?
+12/20/23, 16:06 - chat: "Regula celor 50 de mutari" poate influenta deciziile jucatorilor, determinandu-i sa faca mutari care sa evite remiza sau sa o forteze asupra adversarului.
+12/20/23, 15:00 - person: Ce este un sistem elvetian in organizarea turneelor de sah?
+12/20/23, 15:01 - chat: Un sistem elvetian in organizarea turneelor de sah este un format in care jucatorii sunt grupati in functie de rezultatele anterioare, astfel incat fiecare jucator sa joace cu altii care au avut un succes similar in turneu.
+12/20/23, 15:05 - person: Cum se stabileste programul de joc intr-un turneu cu sistem elvetian?
+12/20/23, 15:06 - chat: Programul de joc intr-un turneu cu sistem elvetian este stabilit in functie de clasamentul actual al jucatorilor. Jucatorii cu scoruri similare joaca intre ei, evitandu-se astfel repetarea partidelor.
+12/20/23, 15:10 - person: Ce reprezinta termenul "bye" in cadrul unui turneu de sah?
+12/20/23, 15:11 - chat: Termenul "bye" in cadrul unui turneu de sah reprezinta o runda in care un jucator nu joaca si primeste un punct pentru acea runda. Aceasta se intampla, de obicei, atunci cand numarul total de participanti nu este par.
+12/20/23, 15:15 - person: Exista reguli specifice privind comportamentul spectatorilor in timpul unui turneu de sah?
+12/20/23, 15:16 - chat: Da, exista reguli specifice pentru comportamentul spectatorilor in timpul unui turneu de sah. Acestea pot include mentinerea linistii in sala de joc, interzicerea dispozitivelor electronice si respectarea indicatiilor arbitrilor.
+12/20/23, 15:20 - person: Ce este "protestul la orar" intr-un turneu de sah?
+12/20/23, 15:21 - chat: "Protestul la orar" intr-un turneu de sah se refera la o situatie in care un jucator ridica o obiectie sau o contestatie referitoare la programul de joc sau la orarul partidelor. Aceasta trebuie adusa la cunostinta arbitrilor pentru rezolvare.
+12/20/23, 15:25 - person: Care sunt regulile privind notarea partidelor in timpul unui turneu de sah?
+12/20/23, 15:26 - chat: Regulile privind notarea partidelor in timpul unui turneu de sah variaza, dar de obicei, fiecare jucator trebuie sa noteze miscarile pe o foaie de partida sau un caiet de scor.
+12/20/23, 15:30 - person: Ce se intampla in cazul in care un jucator intarzie la o partida intr-un turneu de sah?
+12/20/23, 15:31 - chat: Daca un jucator intarzie la o partida intr-un turneu de sah, acesta poate pierde timp din timpul sau alocat pentru miscari sau poate fi penalizat cu puncte de penalizare.
+12/20/23, 15:35 - person: Cum sunt stabilite categoriile de varsta in turneele de sah pentru juniori?
+12/20/23, 15:36 - chat: Categorile de varsta in turneele de sah pentru juniori sunt de obicei stabilite in functie de varsta jucatorilor la inceputul anului competitional si pot varia in functie de regulile specific ale fiecarui turneu.
+12/20/23, 15:40 - person: Exista reguli specifice pentru utilizarea ceasurilor de sah in turnee?
+12/20/23, 15:41 - chat: Da, exista reguli specifice pentru utilizarea ceasurilor de sah in turnee, inclusiv stabilirea timpilor de gandire si penalizari pentru depasirea acestora.
+12/20/23, 15:45 - person: Ce inseamna "turneu in sistem KO" in sah?
+12/20/23, 15:46 - chat: Un "turneu in sistem KO" in sah presupune ca jucatorii sunt eliminati pe masura ce pierd partide, pana cand ramane un singur castigator.
+12/20/23, 15:50 - person: Cum se decide ordinea culorilor la inceputul unui turneu de sah?
+12/20/23, 15:51 - chat: Ordinea culorilor la inceputul unui turneu de sah poate fi determinata de tragerea la sorti sau prin utilizarea unor formule specifice pentru a asigura echitatea.
+12/20/23, 15:55 - person: Care sunt regulile privind interventia antrenorilor in timpul partidelor la turneele de sah?
+12/20/23, 15:56 - chat: Antrenorii pot oferi sfaturi si sprijin jucatorilor in timpul partidelor la turneele de sah, dar exista limite privind interventia lor, iar regulile pot varia.
+12/20/23, 16:00 - person: Exista limite de timp suplimentar pentru finalurile de partide in turneele de sah?
+12/20/23, 16:01 - chat: Da, in turneele de sah pot exista limite de timp suplimentar pentru finalurile de partide, cunoscute sub numele de "time increment" sau "delay".
+12/20/23, 16:05 - person: Ce se intampla in cazul unei reclamatii privind un rezultat in turneul de sah?
+12/20/23, 16:06 - chat: In cazul unei reclamatii privind un rezultat in turneul de sah, arbitrii analizeaza situatia si iau decizii bazate pe regulile respective ale competitiei.
+12/20/23, 16:10 - person: Care sunt regulile privind utilizarea dispozitivelor electronice in timpul partidelor la un turneu de sah?
+12/20/23, 16:11 - chat: Regulile privind utilizarea dispozitivelor electronice in timpul partidelor la un turneu de sah pot interzice sau restrictiona utilizarea acestora pentru a preveni trisarea.
+12/20/23, 16:15 - person: Ce inseamna "perfomanta turneului" in clasamentele de sah?
+12/20/23, 16:16 - chat: "Performanta turneului" in clasamentele de sah se refera la rezultatele globale ale unui jucator in cadrul unui turneu, tinand cont de adversari si de scorurile obtinute.
+12/20/23, 16:20 - person: Cum sunt stabilite punctajele pentru normele de titlu in turneele de sah?
+12/20/23, 16:21 - chat: Punctajele pentru normele de titlu in turneele de sah sunt stabilite in functie de performanta jucatorului fata de un anumit standard specificat pentru acel titlu.
+12/20/23, 16:25 - person: Exista reguli privind comportamentul in afara tablei de sah in timpul unui turneu?
+12/20/23, 16:26 - chat: Exista reguli privind comportamentul in afara tablei de sah in timpul unui turneu, inclusiv restrictii privind discutiile cu alti jucatori sau comentarii care pot influenta negativ atmosfera.
+12/20/23, 16:30 - person: Care este procedura pentru o remiza oferita in timpul unei partide de sah la un turneu?
+12/20/23, 16:31 - chat: In cazul unei remize oferite in timpul unei partide de sah la un turneu, un jucator poate face o propunere de remiza catre adversar, iar acesta poate accepta sau refuza propunerea.
+12/20/23, 16:35 - person: Ce trebuie sa faca un jucator in cazul unei dispute legate de notarea scorului intr-un turneu de sah?
+12/20/23, 16:36 - chat: In cazul unei dispute legate de notarea scorului intr-un turneu de sah, jucatorii pot apela la arbitri pentru a solutiona situatia si a stabili scorul corect.
+12/20/23, 17:00 - person: Cum se gestioneaza situatiile de pauza sau oprire a ceasului de sah in timpul unei partide la un turneu?
+12/20/23, 17:01 - chat: In situatiile de pauza sau oprire a ceasului de sah in timpul unei partide la un turneu, arbitrii decid daca este necesara oprirea ceasului si isi coordoneaza deciziile cu regulile specifice ale competitiei.
+12/20/23, 17:05 - person: Exista restrictii privind notarea partidelor pe parcursul acestora in turneele de sah?
+12/20/23, 17:06 - chat: In turneele de sah, exista restrictii privind notarea partidelor pe parcursul acestora. De obicei, notarea este permisa doar in timpul pauzelor sau dupa incheierea partidei.
+12/20/23, 17:10 - person: Cum sunt stabilite criteriile de eligibilitate pentru participarea la un anumit turneu de sah?
+12/20/23, 17:11 - chat: Criteriile de eligibilitate pentru participarea la un anumit turneu de sah pot varia, dar de obicei se iau in considerare ratingurile jucatorilor, varsta, si, uneori, performantele anterioare in alte competitii.
+12/20/23, 17:15 - person: Ce rol au directionarile in organizarea turneelor de sah?
+12/20/23, 17:16 - chat: Directionarile in organizarea turneelor de sah se refera la modul in care jucatorii sunt impartiti in grupuri sau sectiuni in functie de ratingurile lor, experienta anterioara sau alte criterii specifice.
+12/20/23, 17:20 - person: Care sunt regulile privind promovarea unui jucator la o categorie superioara in sah?
+12/20/23, 17:21 - chat: Regulile privind promovarea unui jucator la o categorie superioara in sah pot implica atingerea unui anumit rating sau obtinerea de rezultate remarcabile in competitii anterioare.
+12/20/23, 17:25 - person: Exista criterii specifice pentru selectarea deschiderilor in cadrul unui turneu de sah?
+12/20/23, 17:26 - chat: Nu exista criterii specifice pentru selectarea deschiderilor in cadrul unui turneu de sah. Jucatorii aleg deschiderile in functie de preferintele si strategiile lor personale.
+12/20/23, 17:30 - person: Ce se intampla daca o piesa este in mod gresit plasata pe tabla in timpul unei partide la turneu?
+12/20/23, 17:31 - chat: Daca o piesa este plasata in mod gresit pe tabla in timpul unei partide la turneu, jocul poate fi oprit, iar piesa este asezata corect. Este important sa se respecte regulile de pozitionare a pieselor
+12/20/23, 17:35 - person: Cum sunt gestionate cazurile de comportament antisportiv in timpul unui turneu de sah?
+12/20/23, 17:36 - chat: Cazurile de comportament antisportiv in timpul unui turneu de sah sunt gestionate de arbitri, iar sanctiunile pot varia de la avertismente la pierderea punctelor sau eliminarea din turneu, in functie de gravitatea faptei.
+12/20/23, 17:40 - person: Care sunt regulile privind schimbul de piese si acceptarea remizei in sahul la nivel competitiv?
+12/20/23, 17:41 - chat: Regulile privind schimbul de piese si acceptarea remizei in sahul la nivel competitiv variaza, dar de obicei exista proceduri specifice care trebuie respectate pentru a solicita o remiza sau pentru a efectua schimburi.
+12/20/23, 17:45 - person: Cum se decide durata totala a unui turneu de sah si a fiecarei runde?
+12/20/23, 17:46 - chat: Durata totala a unui turneu de sah si a fiecarei runde este stabilita in avans si comunicata participantilor. Poate fi determinata de numarul de jucatori, timpul alocat fiecarei partide si alte factori logistici.
+12/20/23, 18:00 - person: Exista restrictii privind conversatiile intre jucatori in timpul partidelor din cadrul unui turneu?
+12/20/23, 18:01 - chat: Exista restrictii privind conversatiile intre jucatori in timpul partidelor din cadrul unui turneu, pentru a evita influentarea negativa a adversarului sau a perturba atmosfera de joc.
+12/20/23, 18:05 - person: Ce se intampla daca un jucator uita sa apese butonul de ceas dupa o mutare in timpul partidei la un turneu de sah cu timp limitat?
+12/20/23, 18:06 - chat: Daca un jucator uita sa apese butonul de ceas dupa o mutare in timpul partidei la un turneu de sah cu timp limitat, adversarul sau arbitrii pot sa acorde timpul necesar pentru remedierea situatiei.
+12/20/23, 18:10 - person: Exista reguli speciale pentru turneele de sah online in comparatie cu cele fizice?
+12/20/23, 18:11 - chat: Exista reguli speciale pentru turneele de sah online in comparatie cu cele fizice, cum ar fi utilizarea platformelor specifice si mentinerea fair-play-ului in mediul virtual.
+12/20/23, 18:15 - person: Care sunt procedurile pentru rezolvarea disputelor legate de interpretarea regulilor in timpul unui turneu de sah?
+12/20/23, 18:16 - chat: Procedurile pentru rezolvarea disputelor legate de interpretarea regulilor in timpul unui turneu de sah implica de obicei implicarea arbitrilor, care iau decizii bazate pe regulamentele specifice ale competitiei.
+12/20/23, 18:20 - person: Cum se decid clasamentele in cazul in care doi sau mai multi jucatori au acelasi numar de puncte intr-un turneu de sah?
+12/20/23, 18:21 - chat: In cazul in care doi sau mai multi jucatori au acelasi numar de puncte intr-un turneu de sah, clasamentele pot fi stabilite folosind criterii de departajare, cum ar fi performanta adversarilor sau alte formule specifice.
+12/20/23, 18:25 - person: Care sunt regulile privind schimbul de informatii intre jucatori in timpul turneelor de sah pe echipe?
+12/20/23, 18:26 - chat: Regulile privind schimbul de informatii intre jucatori in timpul turneelor de sah pe echipe variaza, dar de obicei exista restrictii pentru a mentine integritatea jocului.
+12/20/23, 18:30 - person: Exista proceduri specifice pentru sesizarea unui comportament nesportiv la un turneu de sah?
+12/20/23, 18:31 - chat: Pentru sesizarea unui comportament nesportiv la un turneu de sah, jucatorii sau arbitrii pot raporta incidentul organizatorilor, iar acestia vor lua masuri corespunzatoare.
+12/20/23, 18:35 - person: Cum sunt stabilite premiile si recompensele in cadrul unui turneu de sah?
+12/20/23, 18:36 - chat: Premiile si recompensele in cadrul unui turneu de sah sunt de obicei stabilite in avans si pot varia in functie de bugetul si politicile organizatorului. Ele pot include premii in bani, trofee sau alte recunoasteri.
+12/20/23, 18:40 - person: Care sunt regulile privind consultarea notelor de sah in timpul partidelor din cadrul unui turneu?
+12/20/23, 18:41 - chat: Regulile privind consultarea notelor de sah in timpul partidelor din cadrul unui turneu depind de regulamentele specifice ale competitiei, dar de obicei, jucatorii nu au voie sa consulte notele in timpul partidelor.
+12/20/23, 18:45 - person: Cum se decide ordinea jucatorilor in cadrul unei runde intr-un turneu cu sistem elvetian?
+12/20/23, 18:46 - chat: Intr-un turneu cu sistem elvetian, ordinea jucatorilor in cadrul unei runde este stabilita in functie de scorurile lor actuale. Jucatorii cu scoruri similare se intalnesc pentru a asigura competitivitatea.
+12/20/23, 19:00 - person: Cum se gestioneaza situatiile in care un jucator solicita pauza in timpul unei partide la un turneu de sah?
+12/20/23, 19:01 - chat: In general, regulile privind pauzele in timpul partidelor de sah sunt stabilite de organizatorii turneului. De obicei, un jucator poate solicita o pauza pentru diverse motive, cum ar fi probleme de sanatate sau nevoia de a parasi momentan sala de joc.
+12/20/23, 19:05 - person: Exista reguli specifice pentru participarea jucatorilor straini la turneele de sah in tari diferite?
+12/20/23, 19:06 - chat: Da, regulile privind participarea jucatorilor straini la turneele de sah pot varia in functie de tara si de regulamentul specific al turneului.
+12/20/23, 19:10 - person: Care sunt regulile privind folosirea notelor deschise in timpul unei partide de sah la un turneu?
+12/20/23, 19:11 - chat: Regulile privind notarea partidelor in timpul unui turneu de sah pot varia, dar in general, utilizarea notelor deschise in timpul partidei nu este permisa.
+12/20/23, 19:15 - person: Cum se decid locurile de desfasurare a turneelor de sah si care sunt criteriile luate in considerare?
+12/20/23, 19:16 - chat: Alegerea locului de desfasurare a unui turneu de sah este adesea determinata de factori precum infrastructura disponibila, accesibilitatea, suportul financiar, reputatia locului si dorinta organizatorilor de a gazdui un eveniment de calitate.
+12/20/23, 19:20 - person: Exista reguli specifice privind imbracamintea jucatorilor in timpul partidelor de sah la turneele de nivel inalt?
+12/20/23, 19:21 - chat: Regulile privind imbracamintea jucatorilor in timpul partidelor de sah pot varia, dar in general, se asteapta ca jucatorii sa poarte o imbracaminte adecvata si respectuoasa.
+12/20/23, 19:25 - person: Care sunt procedurile in cazul in care un jucator se retrage dintr-un turneu de sah inainte de incheierea acestuia?
+12/20/23, 19:26 - chat: Procedurile pentru retragerea unui jucator dintr-un turneu de sah pot varia in functie de regulamentul specific al turneului.
+12/20/23, 19:30 - person: Exista reguli cu privire la folosirea anumitor deschideri sau strategii in timpul unui turneu de sah?
+12/20/23, 19:31 - chat: In general, jucatorii au libertatea de a alege deschiderile si strategiile in timpul unui turneu de sah. 
+12/20/23, 19:35 - person: Cum sunt stabilite echipele in turneele de sah pe echipe si care sunt criteriile de eligibilitate?
+12/20/23, 19:36 - chat: Formarea echipelor in turneele de sah pe echipe depinde de regulamentul specific al fiecarui turneu. 
+12/20/23, 19:40 - person: Exista sanctiuni pentru jucatorii care incalca regulile de fair-play in timpul unui turneu de sah?
+12/20/23, 19:41 - chat: Da, exista sanctiuni pentru jucatorii care incalca regulile de fair-play in timpul unui turneu de sah. 
+12/20/23, 19:45 - person: Care sunt regulile privind utilizarea ceasurilor de sah cu timp incrementat in turnee?
+12/20/23, 19:46 - chat: Regulile privind ceasurile de sah cu timp incrementat sunt stabilite de organizatorii turneului.
+12/20/23, 20:00 - person: Cum se decid tabelele de clasare si premiile in cadrul turneelor de sah cu mai multe sectiuni?
+12/20/23, 20:01 - chat: Tabelele de clasare si premiile in turneele cu mai multe sectiuni sunt adesea stabilite in functie de scorurile obtinute de jucatori in fiecare sectiune. 
+12/20/23, 20:05 - person: Exista limite privind folosirea anumitor strategii de amanare a timpului in timpul partidelor de sah?
+12/20/23, 20:06 - chat: In general, regulile de sah incurajeaza jocul rapid si fair-play-ul, deci utilizarea strategiilor de amanare a timpului excesiv poate fi privita cu suspiciune. 
+12/20/23, 20:10 - person: Cum sunt gestionate cazurile in care doi jucatori solicita simultan remiza in timpul unei partide la un turneu?
+12/20/23, 20:11 - chat: Daca doi jucatori solicita simultan remiza in timpul unei partide, decizia poate fi luata de arbitru. In majoritatea cazurilor, regulamentul turneului stabileste conditiile in care remiza poate fi acordata.
+12/20/23, 20:15 - person: Exista reguli privind participarea jucatorilor amatori in competitiile profesionale de sah?
+12/20/23, 20:16 - chat: In general, majoritatea competitiilor profesionale de sah sunt deschise atat jucatorilor amatori, cat si celor profesionisti. 
+12/20/23, 20:20 - person: Care sunt criteriile de selectie pentru desemnarea unui jucator ca reprezentant al unei tari in competitiile internationale de sah?
+12/20/23, 20:21 - chat: Criteriile de selectie pentru desemnarea unui jucator ca reprezentant al unei tari in competitiile internationale de sah pot varia in functie de politica fiecarei federatii nationale de sah.
+12/20/23, 20:25 - person: Cum sunt stabilite limitele de varsta in cazul turneelor de sah pentru seniori?
+12/20/23, 20:26 - chat: Limitele de varsta in turneele de sah pentru seniori sunt stabilite de regulamentul specific al fiecarui turneu. In general, turneele pentru seniori se adreseaza jucatorilor care au atins o anumita varsta, cum ar fi 50 sau 60 de ani.
+12/20/23, 20:30 - person: Exista reguli specifice privind publicitatea si sponsorizarea in timpul turneelor de sah?
+12/20/23, 20:31 - chat: Regulile privind publicitatea si sponsorizarea in timpul turneelor de sah sunt stabilite de organizatorii fiecarui turneu si pot varia. In general, turneele permit publicitatea si sponsorizarea, dar pot exista restrictii privind continutul sau locul afisarii.
+12/20/23, 20:35 - person: Ce se intampla daca un jucator este gasit vinovat de trisare in timpul unui turneu de sah?
+12/20/23, 20:36 - chat: Daca un jucator este gasit vinovat de trisare in timpul unui turneu de sah, consecintele pot fi severe. Organizatorii pot decide excluderea jucatorului din turneu, retragerea rezultatelor sale si aplicarea altor sanctiuni, cum ar fi suspendarea temporara sau permanenta din competitii viitoare. 
+12/20/23, 20:40 - person: Cum se stabileste durata de timp alocata pentru analiza unei pozitii la un turneu de sah cu timp limitat?
+12/20/23, 20:41 - chat: Durata de timp alocata pentru analiza unei pozitii in timpul unui turneu de sah cu timp limitat este stabilita de regulamentul specific al turneului. De obicei, jucatorii au un timp limitat pentru fiecare mutare, iar aceasta limita poate varia in functie de tipul de turneu.
+12/20/23, 20:45 - person: Exista reguli specifice pentru turneele de sah rapid in comparatie cu cele de sah clasic?
+12/20/23, 20:46 - chat: Da, exista diferente semnificative intre regulile turneelor de sah rapid si cele de sah clasic. In turneele de sah rapid, jucatorii au mai putin timp la dispozitie pentru fiecare mutare, ceea ce duce la partide mai rapide si dinamice.
+12/20/23, 20:50 - person: Cum se decide programul de joc in turneele de sah pe echipe?
+12/20/23, 20:51 - chat: Programul de joc in turneele de sah pe echipe este stabilit de organizatorii turneului in functie de numarul de echipe participante si de regulamentul specific al competitiei.
+12/20/23, 20:55 - person: Exista reguli privind calificarea la turneele de sah?
+12/20/23, 20:56 - chat: Da, exista reguli specifice privind calificarea la turneele de sah la nivel mondial sau continental. De obicei, calificarea depinde de ratingul ELO al jucatorului, performantele acestuia in competitiile nationale si internationale.
