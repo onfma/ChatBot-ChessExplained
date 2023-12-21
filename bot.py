@@ -5,7 +5,7 @@ from cleaner import clean_corpus
 
 CORPUS_FILE = "chat.txt"
 
-chatbot = ChatBot("Chatpot")
+chatbot = ChatBot("ChessBot")
 
 trainer = ListTrainer(chatbot)
 cleaned_corpus = clean_corpus(CORPUS_FILE)
