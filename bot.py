@@ -6,7 +6,22 @@ import io
 import chess
 import chess.pgn
 import chess.engine
+import re
 
+def extract_moves(question):
+    move_pattern = re.compile(r'\b(?:[KQRBN]?[a-h]?[1-8]?x?[a-h][1-8]|O-O(?:-O)?)\b')
+    moves = re.findall(move_pattern, question)
+    result_string = ' '.join(moves)
+    return result_string
+
+def categorize_question(question):
+    keywords = ["best move", "best next move", "to do next", "optimal move", "recommended move", "strategy", "tactics"]
+
+    for keyword in keywords:
+        if keyword in question.lower():
+            return True
+    
+    return 
 
 def verify_chess_input(input, color):
     if (len(input) % 2 == 0 and color == "w") or (len(input) % 2 == 1 and color == "b"): return True
@@ -49,6 +64,7 @@ def get_best_move_from_moves_string(moves_string):
 #     print ("da-mi mutarea oponentului, dupa te ajut")
 
 
+
 chatbot = ChatBot("ChessBot")
 
 # Crearea unui antrenor pentru chatbot
@@ -58,10 +74,26 @@ trainer = ChatterBotCorpusTrainer(chatbot)
 trainer.train("chatterbot.corpus.english")
 trainer.train("data")
 
+player_color = "w" # player_color = "b"
+
 while True:
     request = input("> ")
-    response = chatbot.get_response(request)
-    print(f"♟️ {response}")
+    
+    moves = extract_moves(request)
+    
+    if moves:
+        player_color = "w" if len(moves.split()) % 2 == 0 else "b"
+        if categorize_question(request):
+            if verify_chess_input(moves.split(), player_color):
+                best_move = get_best_move_from_moves_string(moves)
+                print(f"Best move: {best_move}")
+            else:
+                print ("Give me the opponent's move")
+        else:
+            print ("I don't understand the question")  
+    else:
+        response = chatbot.get_response(request)
+        print(f"♟️ {response}")
 
 
 # Comenzi:
