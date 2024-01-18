@@ -49,18 +49,21 @@ def get_best_move_from_moves_string(moves_string):
 #     print ("da-mi mutarea oponentului, dupa te ajut")
 
 
-if __name__ == "main":
+chatbot = ChatBot("ChessBot")
 
-    chatbot = ChatBot("ChessBot")
+# Crearea unui antrenor pentru chatbot
+trainer = ChatterBotCorpusTrainer(chatbot)
 
-    # Crearea unui antrenor pentru chatbot
-    trainer = ChatterBotCorpusTrainer(chatbot)
+# Antrenarea chatbotului pe baza corpusului în limba engleză
+trainer.train("chatterbot.corpus.english")
+trainer.train("data")
 
-    # Antrenarea chatbotului pe baza corpusului în limba engleză
-    trainer.train("chatterbot.corpus.english")
-    trainer.train("data")
+while True:
+    request = input("> ")
+    response = chatbot.get_response(request)
+    print(f"♟️ {response}")
 
-    while True:
-        request = input("> ")
-        response = chatbot.get_response(request)
-        print(f"♟️ {response}")
+
+# Comenzi:
+# python -m venv venv
+# venv\Scripts\activate
