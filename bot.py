@@ -97,7 +97,7 @@ def get_best_move(moves_string):
     if was_check:
         print("\n♟️ The king was in check.")
     
-    print("\n♟️ The winning percentage:", s, "%")
+    print("\n♟️ The winning percentage for the next move:", s, "%")
     
     return best_move
 
@@ -160,5 +160,8 @@ while True:
 # python -m venv venv
 # venv\Scripts\activate
 
+#e4 c5 Nf3 Nf6 Bc4 e6 d3
+#e4 Nc6 Nf3 a6 Bc4 Na5 Qe2 b5 Bd3 
+#d4 g6 e4 Bg7 Nf3 d5 e5 e6 Nc3 Ne7 Be2 a6 O-O O-O a3 Bd7 b4 c5 bxc5 b6 cxb6
 #next move is checkmate: f2f3 e7e5 g2g4 
-#
+#the king was in check: e2e4 e7e5 d1h5 g8f6 h5e5 
