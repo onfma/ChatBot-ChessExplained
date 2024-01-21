@@ -1,5 +1,5 @@
-categories: 
-- chess
+# categories: 
+# - chess
 conversations:
 - - What is En Passant? 
   - En Passant is a special move that occurs when a pawn advances two spaces from its initial position and is placed in a lateral position facing an opposing pawn. The opponent can capture the pawn en passant. 

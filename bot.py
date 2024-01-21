@@ -1,10 +1,13 @@
 import io
 import re
+import yaml
 import chess
 import chess.pgn
 import chess.engine
 from chatterbot import ChatBot
+from chatterbot.conversation import Statement
 from chatterbot.trainers import ChatterBotCorpusTrainer
+from chatterbot.comparisons import LevenshteinDistance
 import collections.abc
 collections.Hashable = collections.abc.Hashable
 
@@ -50,6 +53,21 @@ def get_best_move(moves_string):
 
     return best_move
 
+def compare_statements(statement):
+    levenshtein = LevenshteinDistance()
+    statement1 = Statement(statement)
+    with open('data.yml', 'r') as f:
+        data = yaml.safe_load(f)
+    statements = [Statement(conversation[0]) for conversation in data['conversations']]
+    max_similarity = 0
+    most_similar_statement = None
+    for statement in statements:
+        similarity = levenshtein.compare(statement1, statement)
+        if similarity > max_similarity:
+            max_similarity = similarity
+            most_similar_statement = statement
+
+    return most_similar_statement.text, max_similarity
 
 
 chatbot = ChatBot("ChessBot")
@@ -81,7 +99,12 @@ while True:
         else:
             print ("♟️ I don't understand the question.")  
     else:
-        response = chatbot.get_response(request)
+        most_similar_statement, max_similarity = compare_statements(request)
+        # print(f"Cel mai similar statement pentru '{request}' este: '{most_similar_statement}' cu o similaritate de {max_similarity}")
+        if max_similarity > 0.55:
+            response = chatbot.get_response(most_similar_statement)
+        else:
+            response = chatbot.get_response(request)
         print(f"♟️ {response}")
 
 
