@@ -56,7 +56,8 @@ def get_best_move(moves_string):
     
     board = chess.Board()
     moves = parse_moves(moves_string)
-    
+    was_check = False
+
     for move in moves:
         board.push(chess.Move.from_uci(move))
     
@@ -72,6 +73,10 @@ def get_best_move(moves_string):
         
     engine.quit()
 
+    is_in_check = board.is_check()
+    if is_in_check:
+        was_check = True
+
     print("\n ♟️ Chess table after taking the best move: ")
     board.push(best_move)
     print(board)
@@ -79,7 +84,20 @@ def get_best_move(moves_string):
     best_move_uci = best_move.uci()
     last_move = moves[-1]
     x, y = count_consecutive_moves_in_file(last_move, best_move_uci)
-    print("\n The winning percentage:", y/x*100, "%")
+    s = 0
+    if y == 0 or x == 0:
+        s = 0
+    else:
+        s = y/x*100
+
+    if board.is_checkmate():
+        print("\n♟️ This is a checkmate move.")
+        s = 100
+
+    if was_check:
+        print("\n♟️ The king was in check.")
+    
+    print("\n♟️ The winning percentage:", s, "%")
     
     return best_move
 
@@ -141,3 +159,6 @@ while True:
 # Comenzi:
 # python -m venv venv
 # venv\Scripts\activate
+
+#next move is checkmate: f2f3 e7e5 g2g4 
+#
