@@ -30,6 +30,27 @@ def parse_moves(moves_str):
     moves = chess.pgn.read_game(io.StringIO(moves_str)).mainline_moves()
     return [move.uci()[:-1] if move.uci().endswith('+') else move.uci() for move in moves]
 
+def count_consecutive_moves_in_file(move1, move2):
+    total_count = 0
+    win_count = 0
+
+    with open('games.txt', 'r') as file:
+        games = file.read().split('#')
+
+    for game_str in games:
+        if game_str.strip():
+            moves = parse_moves(game_str + "#")
+            
+            for i in range(len(moves) - 1):
+                if moves[i] == move1 and moves[i + 1] == move2:
+                    total_count += 1
+                    remaining_moves = len(moves) - (i + 2)
+                    if remaining_moves % 2 == 0:
+                        win_count += 1 
+                    break 
+
+    return total_count, win_count
+
 def get_best_move(moves_string):
     engine = chess.engine.SimpleEngine.popen_uci("stockfish\stockfish-windows-x86-64-modern.exe")
     
@@ -45,12 +66,21 @@ def get_best_move(moves_string):
     result = engine.play(board, chess.engine.Limit(time=2.0))
     best_move = result.move
 
+    if best_move is None:
+        print("♟️ No best move available.")
+        return None
+        
     engine.quit()
 
     print("\n ♟️ Chess table after taking the best move: ")
     board.push(best_move)
     print(board)
 
+    best_move_uci = best_move.uci()
+    last_move = moves[-1]
+    x, y = count_consecutive_moves_in_file(last_move, best_move_uci)
+    print("\n The winning percentage:", y/x*100, "%")
+    
     return best_move
 
 def compare_statements(statement):
